@@ -2,4 +2,6 @@ echante = Species.create(name: "Echanté", att_inc: "4 points to be put into any
 
 protherian = Species.create(name: "Protherian", att_inc: "TBD" , speed: 30)
 
-malkine = Species.create(name: "Malkine", att_inc: "tbd" , speed: 30)
+malkine = Species.create(name: "Malkine", att_inc: "TBD" , speed: 30)
+
+fey = Species.create(name: "Fey", att_inc: "TBD" , speed: 30)
